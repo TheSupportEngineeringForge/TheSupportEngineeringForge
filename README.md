@@ -1,6 +1,6 @@
 # The Support Engineering Forge
 
-**Technical Investigations | SQL $ API Troubleshooting | Application & Product Support**
+**Technical Investigations | SQL & API Troubleshooting | Application & Product Support**
 
 Hi, I'm **Arthur**, a Technical Support Engineer with commercial experience in desktop database software support, technical troubleshooting, issue reproduction, and cross-functional collaboration with Engineering teams.
 
