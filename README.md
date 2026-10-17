@@ -20,11 +20,11 @@ This portfolio is organized into three areas:
 
 | Project | Focus |
 |---|---|
-| **Desktop & Database Support** | SQL troubleshooting, desktop database tools, issue reproduction, and technical investigations. |
-| **Web & Mobile Application Support** | Web/API troubleshooting, mobile application workflows, system integration, and end-to-end issue investigation. |
-| **Support Operations Engineering** | Support processes, incident management, escalation workflows, and operational improvements. |
+| [**Desktop & Database Support**](https://github.com/TheSupportEngineeringForge/desktop-database-support) | SQL troubleshooting, desktop database tools, issue reproduction, and technical investigations. |
+| [**Web & Mobile Application Support**](https://github.com/TheSupportEngineeringForge/web-mobile-application-support) | Web/API troubleshooting, mobile application workflows, system integration, and end-to-end issue investigation. |
+| [**Support Operations Engineering**](https://github.com/TheSupportEngineeringForge/support-operations-engineering) | Support processes, incident management, escalation workflows, and operational improvements. |
 
-*Projects and case studies will be linked here as their technical implementations are completed and validated.*
+Each repository will be progressively expanded with documented technical cases, reproducible investigations, and validated project deliverables.
 
 ## How I Approach Technical Problems
 
